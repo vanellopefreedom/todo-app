@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   list-style-type: none;
+  touch-action: none;
 }
 body {
   min-height: 100vh;
@@ -129,7 +130,6 @@ input[type="checkbox"] {
   }
   #add-todo {
     font-size: 14px;
-    padding: 10px 16px;
   }
   #todo-list {
     font-size: 14px;
