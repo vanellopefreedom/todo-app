@@ -121,4 +121,20 @@ input[type="checkbox"] {
   display: none;
 }
 @media (max-width: 640px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  #todo-input {
+    font-size: 14px;
+  }
+  #add-todo {
+    font-size: 14px;
+    padding: 10px 16px;
+  }
+  #todo-list {
+    font-size: 14px;
+  }
+  #todo-list {
+    font-size: 14px;
+  }
 }
